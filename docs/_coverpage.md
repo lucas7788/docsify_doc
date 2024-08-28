@@ -4,7 +4,7 @@
 
 # wallet-sdk-js
 
-> This is a typescript/javascript language wallet solution that supports offline transactions. We currently support various mainstream public blockchains, and will gradually release the source codes for each blockchain.
+This is a typescript/javascript language wallet solution that supports offline transactions. We currently support various mainstream public blockchains, and will gradually release the source codes for each blockchain.
 
 
 - Generic Architecture, easy to extend and maintain
